@@ -1,0 +1,51 @@
+Enhancing Community Interactions with Data-Driven
+Chatbots — The DBpedia Chatbot
+
+Ram G Athreya Axel-Cyrille Ngonga Ngomo Ricardo Usbeck
+Arizona State University Data Science Group, Paderborn Data Science Group, Paderborn
+Ram.G Athreya@asu.edu «University, Germany University, Germany
+axel.ngonga@upb.de ricardo.usbeck@upb.de
+ABSTRACT (2) We implemented a baseline approach to intent classification
+
+In this demo, we introduce the DBPEDIA CHATBOT, a knowledge-
+_graph-driven chatbot designed to optimize community interaction.
+‘The bot was designed for integration into community software 10
+facilitate the answering of recurrent questions. Four main challenges
+‘were addressed when building the chatbot, namely (1) understanding
+user queries, 2) fetching relevant information based on the queries,
+(3) tailoring the responses based on the standards of each output
+platform (ie. Web, Slack, Facebook) as well as (4) developing sub-
+sequent user interactions with the DBPEDIA CHATROT. With this
+demo, we will showcase our solutions to these four challenges.
+
+KEYWORDS
+DBpedia, chatbot, knowledge base, question answering
+
+ACM Reference Format:
+
+Ram G Athreya, Axel-Cyrille Ngonga Ngomo, and Ricardo Usbeck. 2018.
+Enhancing Community Interactions with Data-Driven Chathots ~The DBpe-
+‘dia Chathot. In WWW "18 Companion: The 2018 Web Conference Compan-
+‘on, April 23-27, 2018, Lyon, France. ACM, New York, NY, USA, 4 pages.
+Innpsfdoior/10.1 145/31 845583186964
+
+for technology federation,
+(2) We implemented a rule-based approach to answer questions.
+‘elated to the DBpedia community,
+(3) We combined several tools for answering factual questions,
+(4) We expose the research work being done in DBpedia as prod-
+uct Features. For example:
+‘© Genesis [5]: We use the APIS from the Genesis project to
+show similar and related information fora particular entity
+© QANARY [4]: We use WDAgua’s question answering ap-
+proach to answer factual questions that are posed to the
+DBPEDIA CHaraor.
+‘Our implementation is open-source and a screencast as well as
+source code can be found at https://github.com/dbpedia/chatbot.
+‘Alive demo can be found at http://chatdbpedia.org.
+
+2 RELATED WORK
+(One of the early chatbots was ELIZA [11], which was designed
+around a pattern matching approach. ELIZA was intended to sound
+like different persons, e. like a psychotherapist. Later, the ELIZA
+inspired chatbot ALICE [10] was introduced. ALICE was imple-
